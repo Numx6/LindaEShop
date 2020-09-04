@@ -1,2 +1,2 @@
 # LindaEShop
-LindaEShop
+فروشگاه اینترنتی
